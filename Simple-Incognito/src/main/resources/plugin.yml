@@ -1,0 +1,16 @@
+name: Simple-Incognito
+version: '1.0-INDEV'
+main: pl.lambda.incognito.IncognitoPlugin
+api-version: '1.21'
+authors: [ Lambda ]
+
+commands:
+  incognito:
+    description: Otwiera menu incognito
+    usage: /incognito
+    permission: incognito.use
+
+permissions:
+  incognito.use:
+    description: Pozwala na używanie trybu incognito
+    default: true

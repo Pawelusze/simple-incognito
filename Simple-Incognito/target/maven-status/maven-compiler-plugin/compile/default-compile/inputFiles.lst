@@ -1,0 +1,11 @@
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/IncognitoPlugin.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/command/IncognitoCommand.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/data/DataManager.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/data/PlayerData.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/gui/IncognitoGUI.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/listener/InventoryListener.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/listener/PlayerJoinListener.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/manager/IncognitoManager.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/util/ChatHelper.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/util/ItemBuilder.java
+/Users/pawelmalanich/Downloads/Simple-Incognito/src/main/java/pl/lambda/incognito/util/MessageType.java
